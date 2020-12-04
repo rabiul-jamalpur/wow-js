@@ -1,0 +1,20 @@
+.box1{
+   height: 390px;
+   width: auto;
+   background-image: url(img/autumn.jpg);
+   font-size: large;
+}
+.box2{
+    height: 390px;
+    width: auto;
+    background-image: url(img/japan_digital.jpg);
+    font-size: large;
+}
+.box1 .wow{
+    background-color: rgb(247, 38, 11);
+}
+.box2 .wow{
+    background-color: rgb(20, 122, 0);
+}
+    
+    
